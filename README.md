@@ -1,1 +1,1 @@
-## Hello 👋, I am Abdulrazzaq a Data Scientist
+## Hello👋, I am Abdulrazzaq a Data Scientist
